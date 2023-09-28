@@ -1,0 +1,39 @@
+body{
+    background-color: slategray;
+}
+
+#form-div {
+    margin-left: 30px;
+}
+
+p {
+    color: white;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 1.2em;
+    margin: 20px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 1.3em;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#upload {
+    background-color: palevioletred;
+    color: white;
+    width: 200px;
+}
+
+#upload:hover {
+    background-color: mediumvioletred;
+    cursor: pointer;
+}
